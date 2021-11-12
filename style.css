@@ -1,0 +1,24 @@
+body
+{
+	text-align: center;
+    background-color: aquamarine;
+}
+
+h3
+{
+    letter-spacing: 8px;
+    font-style: italic;
+}
+
+span
+{
+	font-size: 16px;
+    letter-spacing: 2px;
+    font-style: italic;
+	color: tomato;
+}
+canvas
+{
+	background: greenyellow;
+    box-shadow: 5px 5px 5px tomato;
+}
